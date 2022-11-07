@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         print("Test")
     }
 
+    private func change() {
+        print("Change")
+    }
 
 }
 
