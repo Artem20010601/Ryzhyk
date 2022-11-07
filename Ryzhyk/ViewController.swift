@@ -14,9 +14,10 @@ class ViewController: UIViewController {
         
         view.backgroundColor = .green
         
-        public func test() {
-            print("Test")
-        }
+    }
+    
+    public func test() {
+        print("Test")
     }
 
 
